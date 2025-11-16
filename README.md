@@ -16,3 +16,4 @@
 - Login uses password_verify() to check passwords.
 - All database queries use prepared statements to prevent SQL injection.
 - User inputs are sanitized and validated before processing.
+
